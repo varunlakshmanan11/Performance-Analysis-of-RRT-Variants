@@ -3,17 +3,20 @@
 Member 1:\
 Varun Lakshmanan\
 120169595\
-varunl11@umd.edu
+varunl11@umd.edu\
+https://github.com/varunlakshmanan11
 
 Member 2:\
 Nitish Ravisankar Raveendran\
 120385506\
-rrnitish@umd.edu
+rrnitish@umd.edu\
+https://github.com/Nitish05
 
 Member 3:\
 Sai Jagadeesh Muralikrishnan\
 120172243\
-jagkrish@umd.edu
+jagkrish@umd.edu\
+https://github.com/cravotics
 
 # Project Description
 
