@@ -1,30 +1,12 @@
 # Performance Analysis of RRT Path Planning Algorithm
 
-Member 1:\
-Varun Lakshmanan\
-120169595\
-varunl11@umd.edu\
-https://github.com/varunlakshmanan11
-
-Member 2:\
-Nitish Ravisankar Raveendran\
-120385506\
-rrnitish@umd.edu\
-https://github.com/Nitish05
-
-Member 3:\
-Sai Jagadeesh Muralikrishnan\
-120172243\
-jagkrish@umd.edu\
-https://github.com/cravotics
-
-# Project Description
+## Project Description
 
 This Project involves comparison of performance of different variants of RRT Path Planning algorithms in 2D and implementing them to a TurtleBot3 in gazebo simulation environment by using a pid controller to check their performance on 3D simulation.
 
-# Instructions to run the package:
+## Instructions to run the package:
 
-# Softwares required:
+## Softwares required:
 
 Ubuntu 22.04\
 ROS2 Humble\
@@ -91,3 +73,23 @@ https://drive.google.com/file/d/1oeMSC2dic9kGpPTEV-Chv5lB1lhhDZjj/view?usp=shari
 
 Gazebo Visualization
 https://drive.google.com/file/d/1Y2LveUvn7KraKCprEd8V5AkdQiZWvRAb/view
+
+## Contibutors
+
+Member 1:\
+Varun Lakshmanan\
+120169595\
+varunl11@umd.edu\
+https://github.com/varunlakshmanan11
+
+Member 2:\
+Nitish Ravisankar Raveendran\
+120385506\
+rrnitish@umd.edu\
+https://github.com/Nitish05
+
+Member 3:\
+Sai Jagadeesh Muralikrishnan\
+120172243\
+jagkrish@umd.edu\
+https://github.com/cravotics
